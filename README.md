@@ -1,0 +1,2 @@
+# DiscordThirstyBot
+Who's Thirsty?
