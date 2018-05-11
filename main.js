@@ -60,7 +60,7 @@ client.on('message', async message => {
   }
 })
 
-client.login(process.env.token);
+client.login(process.env.bot_token);
 
 // MADE BY APOC
 // @Apoc#4538
